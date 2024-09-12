@@ -1,10 +1,10 @@
-
+import { InputContainer } from "./styles";
 
 const Input = () => {
     return (
-      <div className="App">
-        Oi gente!
-      </div>
+      <InputContainer>
+        <input />
+      </InputContainer>
     );
   }
   
