@@ -23,6 +23,6 @@ export const InputContainer = styled.div`
     padding: 0 10px;
     font-size: 24px;
     font-family: 'Roboto';
-    color: #FFFFFF
+    color: #FFFFFF;
   }
 `;
